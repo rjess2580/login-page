@@ -1,0 +1,31 @@
+
+
+.main{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(86, 9, 86);
+    padding: 90px 0 90px 0;
+
+}
+.sub-main{
+    height: 300px;
+    width: 35%;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0.188em 1.550em rgb(1, 28, 28);
+    padding-top: 50px;
+    padding-left: 30px;
+    border-radius: 40px;
+    background-color: rgb(174, 153, 171);
+}
+.cover{
+    background-color: rgb(148, 214, 214);
+    width: 30em;
+    height: 35em;
+    position: relative;
+   
+
+}
